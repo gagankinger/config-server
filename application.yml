@@ -1,3 +1,5 @@
-eureka:
-  instance:
-    hostname: localhost
+# eureka:
+#   instance:
+#     hostname: localhost
+
+server.port=8082
